@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,cACE,UAAW,CACX,WAAY,CACZ,gBACF","file":"main.eb5be1f6.chunk.css","sourcesContent":[".card-img-top {\n  width: 100%;\n  height: 15vw;\n  object-fit: cover;\n}"]}
